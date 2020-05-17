@@ -40,7 +40,7 @@ export const News = () => (
                             <img className="img-fluid" src={nto5mac1} alt="9to5Mac" />
                         </a>
                         <div className="portfolio-caption">
-                            <h4>iPhone 12 and iPhone 12 Pro</h4>
+                            <h4>iPhone 12, 12Max and iPhone 12 Pro</h4>
                             <p className="text-muted">What do we know about new iPhones coming this fall - from 9to5Mac</p>
                         </div>
                     </div>
