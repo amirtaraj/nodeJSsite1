@@ -7,7 +7,7 @@ export const About = () => (
   <div className="container">
   <div className="row">
     <div className="col-lg-12 text-center">
-      <h2 className="section-heading text-uppercase">About Me</h2>
+      
       <h3 className="section-subheading text-muted">My Professional Journey</h3>
     </div>
   </div>

@@ -8,8 +8,8 @@ export const News = () => (
   <div className="container">
           <div className="row">
             <div className="col-lg-12 text-center">
-              <h2 className="section-heading text-uppercase">News</h2>
-              <h3 className="section-subheading text-muted">Whats New in Tech and Whats happening arund us.</h3>
+              <h2 className="section-heading text-uppercase">News Today</h2>
+              <br></br>
             </div>
           </div>
           <div className="row">

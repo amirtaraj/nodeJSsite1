@@ -6,7 +6,7 @@ export const Home = () => (
   <div className="container-fluid">
       <div className="row">
         <div className="col-lg-12 text-center">
-          <h2 className="section-heading text-uppercase">My Channel</h2>
+         
           <h3 className="section-subheading text-muted">Click <a href="https://www.youtube.com/user/amirtaraj?sub_confirmation=1" class="btn btn-primary">SUBSCRIBE</a> for more content like this</h3>
         </div>
       </div>
