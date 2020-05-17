@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+
 import { Home } from './Home';
 import { About } from './About';
 import { Contact } from './Contact';
@@ -8,6 +9,7 @@ import { NoMatch } from './NoMatch';
 import { Layout } from './components/Layout';
 import { NavigationBar } from './components/NavigationBar';
 import { Jumbotron } from './components/Jumbotron';
+import './App.css';
 
 class App extends Component {
   render() {
@@ -16,6 +18,7 @@ class App extends Component {
         <Router>
           <NavigationBar />
           <Jumbotron />
+          
           <Layout>
             <Switch>
               <Route exact path="/" component={Home} />
@@ -25,6 +28,7 @@ class App extends Component {
               <Route component={NoMatch} />
             </Switch>
           </Layout>
+          
         </Router>
       </React.Fragment>
     );

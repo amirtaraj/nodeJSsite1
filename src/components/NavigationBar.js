@@ -20,7 +20,7 @@ const Styles = styled.div`
 
 export const NavigationBar = () => (
   <Styles>
-    <Navbar expand="lg" className="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
+    <Navbar expand="lg" className="navbar navbar-expand-lg navbar-dark fixed-top">
       <Navbar.Brand href="/" className="navbar-brand js-scroll-trigger" >Amirtaraj R</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
