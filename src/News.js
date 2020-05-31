@@ -2,6 +2,9 @@ import React from 'react'
 import coronaDash from './assets/img/coronaDash.png';
 import nto5mac1 from './assets/img/9to5mac1.png';
 import tbhp from './assets/img/tbhp.png';
+import appleGlass from './assets/img/appleGlass12.jpg';
+import mkbhdW from './assets/img/mkbhd11.png';
+import spaceX from './assets/img/spaceX1.jpg';
 
 
 export const News = () => (
@@ -26,6 +29,54 @@ export const News = () => (
                         <div className="portfolio-caption">
                             <h4>Corona Dashboard - India</h4>
                             <p className="text-muted">Go Corona..Corona Go - Flaten the Curve, so Stay Home, Stay Safe</p>
+                        </div>
+                    </div>
+            }
+            {
+                    <div className="col-md-4 col-sm-6 portfolio-item">
+                        <a className="portfolio-link" data-toggle="modal" href="https://www.spacex.com/launches/">
+                            <div className="portfolio-hover">
+                                <div className="portfolio-hover-content">
+                                    <i className="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img className="img-fluid" src={spaceX} alt="9to5Mac" />
+                        </a>
+                        <div className="portfolio-caption">
+                            <h4>SpaceX | NASA - Returning Human Space Flight </h4>
+                            <p className="text-muted">Falcon | Dragon | GodSpeed | SpaceX | NASA | Manned Mission</p>
+                        </div>
+                    </div>
+            }
+            {
+                    <div className="col-md-4 col-sm-6 portfolio-item">
+                        <a className="portfolio-link" data-toggle="modal" href="https://www.cnet.com/news/apple-glasses-leaks-and-rumors-heres-everything-we-expect-to-see-next-big-product/">
+                            <div className="portfolio-hover">
+                                <div className="portfolio-hover-content">
+                                    <i className="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img className="img-fluid" src={appleGlass} alt="9to5Mac" />
+                        </a>
+                        <div className="portfolio-caption">
+                            <h4>Apple Glasses</h4>
+                            <p className="text-muted">Apple's AR Glasses! HERE YOU GO! Design, Name, Price, Release date, and more - CNET</p>
+                        </div>
+                    </div>
+            }
+            {
+                    <div className="col-md-4 col-sm-6 portfolio-item">
+                        <a className="portfolio-link" data-toggle="modal" href="http://t.co/Oqf73Ews?amp=1">
+                            <div className="portfolio-hover">
+                                <div className="portfolio-hover-content">
+                                    <i className="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img className="img-fluid" src={mkbhdW} alt="9to5Mac" />
+                        </a>
+                        <div className="portfolio-caption">
+                            <h4>Wallpaper Collection - MKBHD</h4>
+                            <p className="text-muted">I swear the best wallpapers are found in the background of YouTube videos - MKBHD</p>
                         </div>
                     </div>
             }

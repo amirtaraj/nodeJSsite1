@@ -12,9 +12,9 @@ export const Home = () => (
       </div>
       <div className="row text-center">
         <div className="col-md-4">
-            <iframe title="iFrame1" width="350" height="197" src="https://www.youtube.com/embed/W0GtTNxcJ7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="yes"></iframe>
-          <h4 className="service-heading">RetroTech - iPhone 4S</h4>
-          <p className="text-muted">How is it using iPhone 4S in 2020 on iOS6 vs iOS9? Lets get some Nostalgia and pure skeuomorphism [in 8K ProRes]</p>
+        <iframe title="iFrame1" width="350" height="197" src="https://www.youtube.com/embed/1KqH25-UO7I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h4 className="service-heading">LG 25UM58 Review - The Best Work From Home Setup?</h4>
+          <p className="text-muted">As we all are Working from Home, which one do you prefer, Dual monitor or an Ultrawide? Check this video to find out and more.</p>
         </div>
         <div className="col-md-4">
             <iframe title="iFrame2" width="350" height="197" src="https://www.youtube.com/embed/xXcVtj8wG3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="yes"></iframe>
