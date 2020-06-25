@@ -10,6 +10,9 @@ const Styles = styled.div`
 
   a, .navbar-brand, .navbar-nav .nav-link {
     color:  white;
+    display: block;
+    text-align: center;
+    text-decoration: none;
     
 
     &:hover {
@@ -24,7 +27,7 @@ export const NavigationBar = () => (
       <Navbar.Brand href="/" className="navbar-brand js-scroll-trigger" >Amirtaraj R</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
-        <Nav className="navbar-nav text-uppercase ml-auto">
+        <Nav className="navbar text-uppercase ml-auto">
           <Nav.Item>
             <Nav.Link>
               <Link to="/">Home</Link>
@@ -32,7 +35,7 @@ export const NavigationBar = () => (
           </Nav.Item>
           <Nav.Item>
             <Nav.Link>
-              <Link to="/news">News</Link>
+              <Link to="news">News</Link>
             </Nav.Link>
           </Nav.Item>
           <Nav.Item>
