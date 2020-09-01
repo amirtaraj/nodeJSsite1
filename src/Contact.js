@@ -26,7 +26,7 @@ export const Contact = () => (
         <br></br>
     <br></br>
         <div className="col-md-4">
-          <ul className="list-inline social-buttons">
+         
             <li className="list-inline-item">
               <a href="https://twitter.com/amirtaraj">Twitter
                 <i className="fa fa-twitter"></i>
@@ -50,7 +50,7 @@ export const Contact = () => (
                 <i className="fa fa-linkedin"></i>
               </a>
             </li>
-          </ul>
+        
         </div>
         <br></br>
     <br></br>

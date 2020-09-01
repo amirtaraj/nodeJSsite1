@@ -4,7 +4,7 @@ import styled from 'styled-components';
 
 const Styles = styled.div`
   .container {
-    background-color: black;
+    background-color: white;
   }
 
   .container-xl {
