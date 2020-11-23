@@ -1,7 +1,7 @@
 ---
 deployment:
  tasks:
-  - export DEPLOYPATH=/home2/amirtara/public_html/
+  - export DEPLOYPATH=/home/amirtara/public_html/
   - /bin/cp -R build/index.html $DEPLOYPATH
   - /bin/cp -R build/static $DEPLOYPATH
   - /bin/cp -R build/asset-manifest.json $DEPLOYPATH
