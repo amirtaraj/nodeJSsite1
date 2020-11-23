@@ -12,6 +12,26 @@ export const Home = () => (
       </div>
       <div className="row text-center">
       <div className="col-md-4">
+      <iframe title="iFrame7" width="350" height="197" src="https://www.youtube.com/embed/PkgZV4lef0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h4 className="service-heading">Apple silicon Macbook Air vs MacBook Pro compared to Intel</h4>
+          <p className="text-muted">Is M1 MacBook Air is all you need or the Pro worth the extra and how these on a whole compare to the previous generation Intel Macs?</p>
+        </div>
+        <div className="col-md-4">
+      <iframe title="iFrame8" width="350" height="197" src="https://www.youtube.com/embed/t-8z12JXjA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h4 className="service-heading">iPhone 11 Pro vs iPhone 12 Pro (5G in India)</h4>
+          <p className="text-muted">Upgrade to iPhone 12 Pro from iPhone 11 Pro or older, XS, X is it Worth it? 5G is it Real yet here? Worth the upgrade?</p>
+        </div>
+        <div className="col-md-4">
+      <iframe title="iFrame9" width="350" height="197" src="https://www.youtube.com/embed/Ilr4JpocAS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h4 className="service-heading">Work from Home - desk setup tour 2020</h4>
+          <p className="text-muted">Work from Home - desk setup and cable management tour 2020, Covering both basic and custom desk setups</p>
+        </div>
+        <div className="col-md-4">
+        <iframe title="iFrame6" width="350" height="197" src="https://www.youtube.com/embed/FvUQ-hM1K3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h4 className="service-heading">Apple watch Series 3 - WatchOS 7 - How to Free up space?</h4>
+          <p className="text-muted">If you have the Apple watch Series 3 - Wifi only version, it just has 8GB internal memory, so here is the solution</p>
+        </div>
+      <div className="col-md-4">
       <iframe title="iFrame1" width="350" height="197" src="https://www.youtube.com/embed/msZ-xxGBMLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <h4 className="service-heading">Mi Wireless 30W charger vs Raegr Arc 700</h4>
           <p className="text-muted">Mi Wireless 30W charger with cooling fan vs Raegr Arc 700 vs Raegr Arc 500 Does the fan really helps the phone stay cool?</p>
@@ -35,11 +55,6 @@ export const Home = () => (
         <iframe title="iFrame5" width="350" height="197" src="https://www.youtube.com/embed/W0GtTNxcJ7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <h4 className="service-heading">Using iPhone 4S in 2020 on iOS6 vs iOS9 [8K]</h4>
           <p className="text-muted">Using iPhone 4S in 2020 on iOS6 vs iOS9 (in 8K ProRes). Tech Nostalgia</p>
-        </div>
-        <div className="col-md-4">
-        <iframe title="iFrame6" width="350" height="197" src="https://www.youtube.com/embed/uvgfT8OCnVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          <h4 className="service-heading">MacBook Air vs MacBook Pro in 2020</h4>
-          <p className="text-muted">Help me to select the best MacBook Air vs MacBook Pro in 2020</p>
         </div>
       </div>
     </div>

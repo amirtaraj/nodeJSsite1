@@ -5,6 +5,9 @@ import tbhp from './assets/img/tbhp.png';
 import appleGlass from './assets/img/appleGlass12.jpg';
 import mkbhdW from './assets/img/mkbhd11.png';
 import spaceX from './assets/img/spaceX1.jpg';
+import appleclogo from './assets/img/appleclogo.jpg';
+import cardisc from './assets/img/cardisc.jpg';
+import appomt from './assets/img/appomt.jpg';
 
 
 export const News = () => (
@@ -29,6 +32,55 @@ export const News = () => (
                         <div className="portfolio-caption">
                             <h4>Corona Dashboard - India</h4>
                             <p className="text-muted">Go Corona..Corona Go - Flaten the Curve, so Stay Home, Stay Safe</p>
+                        </div>
+                    </div>
+            }
+            {
+                    <div className="col-md-4 col-sm-6 portfolio-item">
+                        <a className="portfolio-link" data-toggle="modal" href="https://9to5mac.com/2020/11/14/apple-winter-surprise-rumor/">
+                            <div className="portfolio-hover">
+                                <div className="portfolio-hover-content">
+                                    <i className="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img className="img-fluid" src={appomt} alt="9to5Mac" />
+                        </a>
+                        <div className="portfolio-caption">
+                            <h4>Apple Christmas surprise! </h4>
+                            <p className="text-muted">AirTags | AirPods Studio | Whats it is?</p>
+                        </div>
+                    </div>
+            }
+            {
+                    <div className="col-md-4 col-sm-6 portfolio-item">
+                        <a className="portfolio-link" data-toggle="modal" href="https://www.mycarhelpline.com/index.php?option=com_offers&view=list&Itemid=9">
+                            <div className="portfolio-hover">
+                                <div className="portfolio-hover-content">
+                                    <i className="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img className="img-fluid" src={cardisc} alt="9to5Mac" />
+                        </a>
+                        <div className="portfolio-caption">
+                            <h4>Year End Discount - Indian Cars</h4>
+                            <p className="text-muted">Year End Discount offer on Cars for November, December 2020</p>
+                        </div>
+                    </div>
+            }
+            
+            {
+                    <div className="col-md-4 col-sm-6 portfolio-item">
+                        <a className="portfolio-link" data-toggle="modal" href="https://www.apple.com/in/shop">
+                            <div className="portfolio-hover">
+                                <div className="portfolio-hover-content">
+                                    <i className="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img className="img-fluid" src={appleclogo} alt="ApplecInc" />
+                        </a>
+                        <div className="portfolio-caption">
+                            <h4>Apple India | Official Store</h4>
+                            <p className="text-muted">Chat with Specialists. Apple Trade In. No-contact delivery. And Apple Support.</p>
                         </div>
                     </div>
             }

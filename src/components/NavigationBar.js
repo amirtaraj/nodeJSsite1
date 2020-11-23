@@ -5,7 +5,7 @@ import styled from 'styled-components';
 
 const Styles = styled.div`
   .navbar {
-    
+    background-color: #00004d;
   }
 
   .navbar-brand js-scroll-trigger navbar-brand {
@@ -14,8 +14,8 @@ const Styles = styled.div`
   }
 
 
-  a, .navbar-nav .nav-link {
-    color:  black;
+  a, .navbar-brand, .navbar-nav .nav-link {
+    color:  white;
     display: block;
     text-align: center;
     text-decoration: none;
@@ -30,7 +30,7 @@ const Styles = styled.div`
 export const NavigationBar = () => (
   <Styles>
     <Navbar expand="lg" className="navbar navbar-expand-lg navbar-dark fixed-top">
-      <Navbar.Brand href="/" className="navbar-brand js-scroll-trigger"></Navbar.Brand>
+      <Navbar.Brand href="/" className="navbar-brand js-scroll-trigger">Amirtaraj R</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="navbar text-uppercase ml-auto">

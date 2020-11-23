@@ -4,7 +4,7 @@ import styled from 'styled-components';
 
 const Styles = styled.div`
   .container {
-    background-color: white;
+    background-color: #e6e6e6;
   }
 
   .container-xl {
@@ -23,7 +23,7 @@ export const Layout = (props) => (
   <Styles>
   <Container>
    
-    
+ 
     {props.children}
    
     

@@ -10,9 +10,7 @@ export const Jumbotron = () => (
       <div className="overlay"></div>
       <Container>
         <br></br>
-        <h4 className="section-subheading text-muted">Amirtaraj R</h4> 
-        <img className="img-fluid" src={lambo} alt="header" />
-        <h5 calssName="section-subheading text-muted" align="center">Nice to see you again :) </h5>
+        <div class="centered">Nice to see you again :)<img className="img-fluid" src={lambo} alt="header" /></div>
       </Container>
     </Jumbo>
 
