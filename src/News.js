@@ -15,7 +15,25 @@ export const News = () => (
           <div className="row">
             <div className="col-lg-12 text-center">
               <h2 className="section-heading text-uppercase">News Today</h2>
-              <br></br>
+
+<table>
+  <tr>
+  <th>SOFTWARE UPDATES (Updated 07Mar2021) - </th>
+    <th>iOS |</th>
+    <th>iPadOS |</th>
+    <th>macOS |</th>
+    <th>watchOS |</th>
+    <th>tvOS </th>
+  </tr>
+  <tr>
+  <td></td>
+    <td>14.4</td>
+    <td>14.4</td>
+    <td>11.2.2</td>
+    <td>7.3.1</td>
+    <td>14.4</td>
+  </tr>
+</table>
             </div>
           </div>
           <div className="row">
@@ -37,7 +55,7 @@ export const News = () => (
             }
             {
                     <div className="col-md-4 col-sm-6 portfolio-item">
-                        <a className="portfolio-link" data-toggle="modal" href="https://9to5mac.com/2020/11/14/apple-winter-surprise-rumor/">
+                        <a className="portfolio-link" data-toggle="modal" href="https://9to5mac.com/2021/03/08/first-apple-event-of-the-year-rumored-for-march-23rd/">
                             <div className="portfolio-hover">
                                 <div className="portfolio-hover-content">
                                     <i className="fa fa-plus fa-3x"></i>
@@ -46,8 +64,8 @@ export const News = () => (
                             <img className="img-fluid" src={appomt} alt="9to5Mac" />
                         </a>
                         <div className="portfolio-caption">
-                            <h4>Apple Christmas surprise! </h4>
-                            <p className="text-muted">AirTags | AirPods Studio | Whats it is?</p>
+                            <h4>Apple Spring surprise! 23rd March</h4>
+                            <p className="text-muted">AirTags | AirPods | iPad Pro | AppleTV</p>
                         </div>
                     </div>
             }
@@ -62,8 +80,8 @@ export const News = () => (
                             <img className="img-fluid" src={cardisc} alt="9to5Mac" />
                         </a>
                         <div className="portfolio-caption">
-                            <h4>Year End Discount - Indian Cars</h4>
-                            <p className="text-muted">Year End Discount offer on Cars for November, December 2020</p>
+                            <h4>Big Discount offers on Cars in March 2021</h4>
+                            <p className="text-muted">March 2021 Discount Schemes, March 2021</p>
                         </div>
                     </div>
             }
@@ -86,7 +104,7 @@ export const News = () => (
             }
             {
                     <div className="col-md-4 col-sm-6 portfolio-item">
-                        <a className="portfolio-link" data-toggle="modal" href="https://www.spacex.com/launches/">
+                        <a className="portfolio-link" data-toggle="modal" href="https://www.isro.gov.in/launcher/pslv-c51-amazonia-1">
                             <div className="portfolio-hover">
                                 <div className="portfolio-hover-content">
                                     <i className="fa fa-plus fa-3x"></i>
@@ -95,8 +113,8 @@ export const News = () => (
                             <img className="img-fluid" src={spaceX} alt="9to5Mac" />
                         </a>
                         <div className="portfolio-caption">
-                            <h4>SpaceX | NASA - Returning Human Space Flight </h4>
-                            <p className="text-muted">Falcon | Dragon | GodSpeed | SpaceX | NASA | Manned Mission</p>
+                            <h4>PSLV-C51/Amazonia-1 </h4>
+                            <p className="text-muted">PSLV-C51, the first dedicated launch for NSIL, successfully launches Amazonia-1 and 18 Co-passenger satellites from Sriharikota</p>
                         </div>
                     </div>
             }

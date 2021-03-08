@@ -12,6 +12,26 @@ export const Home = () => (
       </div>
       <div className="row text-center">
       <div className="col-md-4">
+      <iframe title="iFrame17" width="350" height="197" src="https://www.youtube.com/embed/92X8PmI-rhk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h4 className="service-heading">Lenovo 300 FHD vs Logitech B525 Webcam Comparison Review</h4>
+          <p className="text-muted">Both are better than 720p webcams in the market as laptop inbuilt has better ones. But which is better for WFH?</p>
+        </div>
+        <div className="col-md-4">
+      <iframe title="iFrame27" width="350" height="197" src="https://www.youtube.com/embed/F1KCviozYb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h4 className="service-heading">LG 25 vs 29 inch Ultrawide Monitor comparison</h4>
+          <p className="text-muted">Is the extra real estate worth it? What are the other advantages?</p>
+        </div>
+        <div className="col-md-4">
+      <iframe title="iFrame37" width="350" height="197" src="https://www.youtube.com/embed/aAsEF3zcaBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h4 className="service-heading">Apple HomePod in 2021 compared to Alexa vs Google Home</h4>
+          <p className="text-muted">Apple HomePod, is it worth it in 2021? If you are in the Apple Ecosystem.</p>
+        </div>
+        <div className="col-md-4">
+      <iframe title="iFrame47" width="350" height="197" src="https://www.youtube.com/embed/k3FkqDQpZr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h4 className="service-heading">Work From Home - Desk Setup: JordyBlue table with cable management</h4>
+          <p className="text-muted">Work From Home - Desk Setup: JordyBlue table with cable management</p>
+        </div>
+      <div className="col-md-4">
       <iframe title="iFrame7" width="350" height="197" src="https://www.youtube.com/embed/PkgZV4lef0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <h4 className="service-heading">Apple silicon Macbook Air vs MacBook Pro compared to Intel</h4>
           <p className="text-muted">Is M1 MacBook Air is all you need or the Pro worth the extra and how these on a whole compare to the previous generation Intel Macs?</p>
@@ -55,6 +75,16 @@ export const Home = () => (
         <iframe title="iFrame5" width="350" height="197" src="https://www.youtube.com/embed/W0GtTNxcJ7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <h4 className="service-heading">Using iPhone 4S in 2020 on iOS6 vs iOS9 [8K]</h4>
           <p className="text-muted">Using iPhone 4S in 2020 on iOS6 vs iOS9 (in 8K ProRes). Tech Nostalgia</p>
+        </div>
+        <div className="col-md-4">
+        <iframe title="iFrame15" width="350" height="197" src="https://www.youtube.com/embed/uvgfT8OCnVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h4 className="service-heading">MacBook Air vs MacBook Pro in 2020</h4>
+          <p className="text-muted">Help me to select the best MacBook Air vs MacBook Pro in 2020</p>
+        </div>
+        <div className="col-md-4">
+        <iframe title="iFrame15" width="350" height="197" src="https://www.youtube.com/embed/z9em7sd6b8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h4 className="service-heading">Satechi 75w USB type C Travel charger</h4>
+          <p className="text-muted">Satechi 75w USB type C Multi port Travel charger, Is it the One All in One Charer</p>
         </div>
       </div>
     </div>
