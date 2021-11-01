@@ -5,7 +5,7 @@ import styled from 'styled-components';
 
 const Styles = styled.div`
   .navbar {
-    background-color: #00004d;
+    background-color: #3F000F;
   }
 
   .navbar-brand js-scroll-trigger navbar-brand {
