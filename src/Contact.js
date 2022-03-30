@@ -7,8 +7,8 @@ export const Contact = () => (
     <div className="container">
       <div className="row">
         <div className="col-lg-12 text-center">
-          <h2 className="section-heading text-uppercase">Contact Us</h2>
           
+          <h3 className="section-subheading ">Contact Us</h3>
           <h4 className="section-subheading text-muted">Site Under Construction, So for now use the social links below to contact me</h4>
         </div>
       </div>
@@ -21,7 +21,9 @@ export const Contact = () => (
     <div className="container">
       <div className="row align-items-center">
         <div className="col-md-4">
-          <span className="copyright">Copyright &copy; Amirtaraj R 2020</span>
+         
+          <span className="text-muted">Copyright &copy; Amirtaraj R 2022</span>
+         
         </div>
         <br></br>
         <br></br>

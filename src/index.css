@@ -14,3 +14,31 @@ code {
     monospace;
  
 }
+
+
+h4 {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+    color: rgb(191, 213, 231);
+ 
+}
+
+th,td {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+    color: rgb(76, 100, 238);
+}
+
+h3.section-subheading {
+  
+    color: rgb(212, 211, 211);
+}
+
+h4.timeline-panel.timeline-heading {
+  
+  color: rgb(212, 211, 211);
+}
+
+
+
+

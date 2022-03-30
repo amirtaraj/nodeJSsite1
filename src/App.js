@@ -18,7 +18,7 @@ class App extends Component {
         <Router>
           <NavigationBar />
           <Jumbotron />
-          
+        
           <Layout>
             <Switch>
               <Route exact path="/" component={Home} />
@@ -34,5 +34,7 @@ class App extends Component {
     );
   }
 }
+
+
 
 export default App;
