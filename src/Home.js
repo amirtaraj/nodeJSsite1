@@ -21,6 +21,21 @@ export const Home = () => (
         <h7 className="text-muted"> My Recent Uploads.. </h7>
      
         </div>
+        <div className="col-md-4">
+        <iframe title="iFrame54" width="350" height="197" src="https://www.youtube.com/embed/ArOIb-UPyac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h4 className="service-heading">Lenovo Chargers</h4>
+          <p className="text-muted">230W vs 300W vs USB-C PD</p>
+        </div>
+        <div className="col-md-4">
+        <iframe title="iFrame55" width="350" height="197" src="https://www.youtube.com/embed/VivFTDVKsq4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h4 className="service-heading">M1 MBA vs M1 mini</h4>
+          <p className="text-muted">Which M1 entry level device is better</p>
+        </div>
+        <div className="col-md-4">
+        <iframe title="iFrame56" width="350" height="197" src="https://www.youtube.com/embed/WV_42HPvG3M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h4 className="service-heading">Logitech K400</h4>
+          <p className="text-muted">Keyboard and Trackpad Combo!</p>
+        </div>
       <div className="col-md-4">
       <iframe title="iFrame51" width="350" height="197" src="https://www.youtube.com/embed/AMDFFfs11N4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <h4 className="service-heading">Using Core2Duo iMac in 2022</h4>
@@ -36,21 +51,7 @@ export const Home = () => (
           <h4 className="service-heading">M1 MacBook Air in 2022</h4>
           <p className="text-muted">Upgraded from 2016 Intel MBP!</p>
         </div>
-        <div className="col-md-4">
-        <iframe title="iFrame54" width="350" height="197" src="https://www.youtube.com/embed/e6-FdpvnmCY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          <h4 className="service-heading">Can MagSafe Duo handle it?</h4>
-          <p className="text-muted">The biggest yet 13 Pro camera Bump!</p>
-        </div>
-        <div className="col-md-4">
-        <iframe title="iFrame55" width="350" height="197" src="https://www.youtube.com/embed/ZmtcborFIJg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          <h4 className="service-heading">Apple Watch 7 Series</h4>
-          <p className="text-muted">Not flat but more rounded!</p>
-        </div>
-        <div className="col-md-4">
-        <iframe title="iFrame56" width="350" height="197" src="https://www.youtube.com/embed/uvjGFIkOmGw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          <h4 className="service-heading">USB-C disply</h4>
-          <p className="text-muted">Studio Display is too mainstream!</p>
-        </div>
+        
       </div>
 
 )

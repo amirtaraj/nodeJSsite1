@@ -22,11 +22,11 @@ export const News = () => (
   </tr>
   <tr>
   <td></td>
-    <td>15.4</td>
-    <td>15.4</td>
-    <td>12.3</td>
-    <td>8.5</td>
-    <td>15.4</td>
+    <td>15.4.1</td>
+    <td>15.4.1</td>
+    <td>12.3.1</td>
+    <td>8.5.1</td>
+    <td>15.4.1</td>
   </tr>
 </table>
 <br></br>
