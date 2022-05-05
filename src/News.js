@@ -45,8 +45,8 @@ export const News = () => (
                             <img className="img-fluid" src={cardisc} alt="9to5Mac" />
                         </a>
                         <div className="portfolio-caption">
-                            <h4>Big Discount offers - Apr 2022</h4>
-                            <p className="text-muted">April 2022 Discount Schemes for Cars in India</p>
+                            <h4>Big Discount offers - May 2022</h4>
+                            <p className="text-muted">May 2022 Discount Schemes for Cars in India</p>
                         </div>
                     </div>
             }
