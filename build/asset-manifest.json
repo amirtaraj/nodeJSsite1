@@ -1,21 +1,22 @@
 {
-  "main.css": "/static/css/main.c808f1aa.chunk.css",
-  "main.js": "/static/js/main.5fa6a065.chunk.js",
-  "main.js.map": "/static/js/main.5fa6a065.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.23f31be8.chunk.js": "/static/js/2.23f31be8.chunk.js",
-  "static/js/2.23f31be8.chunk.js.map": "/static/js/2.23f31be8.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.4b931ad4347f7c7b3d47c04ad875fac6.js": "/precache-manifest.4b931ad4347f7c7b3d47c04ad875fac6.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.c808f1aa.chunk.css.map": "/static/css/main.c808f1aa.chunk.css.map",
-  "static/media/abb1.png": "/static/media/abb1.7913fe26.png",
-  "static/media/appleclogo.jpg": "/static/media/appleclogo.ffaa6f00.jpg",
-  "static/media/cardisc.jpg": "/static/media/cardisc.54983d79.jpg",
-  "static/media/agency.min.css": "/static/media/map-image.f40ed5b1.png",
-  "static/media/infy1.png": "/static/media/infy1.8fa7d0b6.png",
-  "static/media/lambo.png": "/static/media/lambo.6e952950.png",
-  "static/media/tbhp.png": "/static/media/tbhp.93625bf9.png",
-  "static/media/tek1.png": "/static/media/tek1.2a57f18e.png"
+  "files": {
+    "main.css": "/static/css/main.4ccaeed9.chunk.css",
+    "main.js": "/static/js/main.aed77cb6.chunk.js",
+    "main.js.map": "/static/js/main.aed77cb6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.82214b85.js",
+    "runtime-main.js.map": "/static/js/runtime-main.82214b85.js.map",
+    "static/js/2.e0aaf00a.chunk.js": "/static/js/2.e0aaf00a.chunk.js",
+    "static/js/2.e0aaf00a.chunk.js.map": "/static/js/2.e0aaf00a.chunk.js.map",
+    "static/js/3.29f6a4d3.chunk.js": "/static/js/3.29f6a4d3.chunk.js",
+    "static/js/3.29f6a4d3.chunk.js.map": "/static/js/3.29f6a4d3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4ccaeed9.chunk.css.map": "/static/css/main.4ccaeed9.chunk.css.map",
+    "static/js/2.e0aaf00a.chunk.js.LICENSE.txt": "/static/js/2.e0aaf00a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82214b85.js",
+    "static/js/2.e0aaf00a.chunk.js",
+    "static/css/main.4ccaeed9.chunk.css",
+    "static/js/main.aed77cb6.chunk.js"
+  ]
 }
